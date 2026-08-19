@@ -6,10 +6,17 @@ I build useful systems where **industrial automation, embedded electronics, soft
 
 Red Seal Instrumentation Mechanician with more than a decade of experience in process control, mining and aluminium smelting. I also build small web systems, Arduino instruments, field-computing tools and practical hardware—often entirely from an Android phone using Termux.
 
-Based in Richards Bay, KwaZulu-Natal, South Africa.
+Based between  England & South Africa.
 
 ---
-
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neclonesoul&theme=github_dark"
+    alt="Tyson Barnes GitHub activity"
+  >
+</p>
+---
 ## What I work on
 
 ```text
