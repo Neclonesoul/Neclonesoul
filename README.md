@@ -1,12 +1,26 @@
-# Tyson Barnes
+<p align="center">
+  <img
+    src="./assets/profile/banner.gif"
+    width="100%"
+    alt="Tyson Barnes — field systems and engineering"
+  />
+</p>
+<h1 align="center">Tyson Barnes</h1>
 
-### Instrumentation Mechanician · Automation Engineer · Field Technologist
+<p align="center">
+  <strong>Instrumentation Mechanician · Automation Engineer · Embedded Systems · Field Technologist • Linux · Web</strong>
+</p>
 
+<p align="center">
+  🇿🇦 &nbsp; South Africa &nbsp;&nbsp;·&nbsp;&nbsp; 🇬🇧 &nbsp; United Kingdom
+</p>
+
+From sensor and microcontroller to Linux server, application and deployed web interface.
 I build useful systems where **industrial automation, embedded electronics, software and the physical world** meet.
 
 Red Seal Instrumentation Mechanician with more than a decade of experience in process control, mining and aluminium smelting. I also build small web systems, Arduino instruments, field-computing tools and practical hardware—often entirely from an Android phone using Termux.
 
-Based between  England & South Africa.
+Based between England & South Africa.
 
 ---
 <p align="center">
@@ -16,7 +30,9 @@ Based between  England & South Africa.
     alt="Tyson Barnes GitHub activity"
   >
 </p>
+
 ---
+
 ## What I work on
 
 ```text
