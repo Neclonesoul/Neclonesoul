@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🇿🇦 &nbsp; South Africa &nbsp;&nbsp;·&nbsp;&nbsp; 🇬🇧 &nbsp; United Kingdom
+  🇿🇦 &nbsp; South Africa &nbsp;&nbsp;·&nbsp;&nbsp; 🏴󠁧󠁢󠁥󠁮󠁧󠁿 &nbsp; England
 </p>
 
 From sensor and microcontroller to Linux server, application and deployed web interface.
@@ -22,13 +22,66 @@ Red Seal Instrumentation Mechanician with more than a decade of experience in pr
 
 Based between England & South Africa.
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111111?style=flat-square&logo=raspberrypi)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare)
+### ⚙️ CONTROL & INSTRUMENTATION
 
+![Rockwell Automation](https://img.shields.io/badge/Rockwell_Automation-111111?style=flat-square&logo=rockwellautomation&logoColor=white)
+![Allen-Bradley](https://img.shields.io/badge/Allen--Bradley-111111?style=flat-square)
+![Studio 5000](https://img.shields.io/badge/Studio_5000-111111?style=flat-square&logo=rockwellautomation&logoColor=white)
+![ControlLogix](https://img.shields.io/badge/ControlLogix-111111?style=flat-square&logo=rockwellautomation&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-111111?style=flat-square)
+![Instrumentation](https://img.shields.io/badge/Instrumentation-111111?style=flat-square)
+![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-111111?style=flat-square)
+
+### 🔌 EMBEDDED & EDGE
+
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111111?style=flat-square&logo=raspberrypi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-111111?style=flat-square&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-111111?style=flat-square&logo=nodered&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-111111?style=flat-square&logo=lora&logoColor=white)
+
+### 💻 SYSTEMS & DEVELOPMENT
+
+![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-111111?style=flat-square&logo=termux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-111111?style=flat-square&logo=openssh&logoColor=white)
+
+### 🌐 WEB, INFRASTRUCTURE & BUSINESS SYSTEMS
+
+![Hugo](https://img.shields.io/badge/Hugo-111111?style=flat-square&logo=hugo&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-111111?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-111111?style=flat-square&logo=odoo&logoColor=white)
+
+### 📐 ENGINEERING & DESIGN
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-111111?style=flat-square&logo=autocad&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-111111?style=flat-square&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-111111?style=flat-square&logo=unrealengine&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-111111?style=flat-square&logo=printables&logoColor=white)
+![Creality Ender](https://img.shields.io/badge/Creality_Ender-111111?style=flat-square)
 
 <p align="center">
   <img
