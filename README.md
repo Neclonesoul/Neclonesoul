@@ -23,6 +23,14 @@ Red Seal Instrumentation Mechanician with more than a decade of experience in pr
 Based between England & South Africa.
 
 ---
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111111?style=flat-square&logo=raspberrypi)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare)
+
 <p align="center">
   <img
     width="95%"
