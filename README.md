@@ -62,6 +62,30 @@ RELIABILITY       condition monitoring · oil analysis · diagnostics
 
 ## Selected systems
 
+### 📟 Field Terminal
+**Engineering from the device in your pocket.**
+
+Android → Termux → Git → Hugo → Cloudflare
+
+Documentation and practical projects for building, publishing,
+diagnosing networks and interfacing with hardware from Android.
+
+`Android` `Termux` `Linux` `Hugo` `Cloudflare`
+
+---
+
+### 🌾 VeldOS
+**Local-first property intelligence.**
+
+Sensors → LoRa → Linux → Dashboard
+
+A developing architecture for property telemetry, water,
+power and equipment monitoring.
+
+`LoRa` `ESP32` `Linux` `MQTT` `Node-RED`
+
+---
+
 ### Field Internet
 
 A small, efficient field website covering engineering, natural history, photography and experiments. Built with Hugo and published from an Android phone.
