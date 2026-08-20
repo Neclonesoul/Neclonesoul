@@ -46,23 +46,21 @@ Based between England & South Africa.
 ### 💻 SYSTEMS & DEVELOPMENT
 
 ![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=FFFFFF)
+![Xcode](https://img.shields.io/badge/Xcode-111111?style=flat-square&logo=xcode&logoColor=147EFB)
 ![iOS](https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=FFFFFF)
 ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows11&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=3DDC84)
 ![Termux](https://img.shields.io/badge/Termux-111111?style=flat-square&logo=termux&logoColor=FFFFFF)
-
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=F05138)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=4EAA25)
-
 ![Android Studio](https://img.shields.io/badge/Android_Studio-111111?style=flat-square&logo=androidstudio&logoColor=3DDC84)
 ![Gradle](https://img.shields.io/badge/Gradle-111111?style=flat-square&logo=gradle&logoColor=02303A)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-111111?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
-
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
 ![SSH](https://img.shields.io/badge/SSH-111111?style=flat-square&logo=openssh&logoColor=FFFFFF)
