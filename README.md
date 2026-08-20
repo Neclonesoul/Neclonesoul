@@ -22,8 +22,6 @@ Red Seal Instrumentation Mechanician with more than a decade of experience in pr
 
 Based between England & South Africa.
 
----
-
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111111?style=flat-square&logo=raspberrypi)
@@ -31,12 +29,21 @@ Based between England & South Africa.
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare)
 
+
 <p align="center">
   <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neclonesoul&theme=github_dark"
-    alt="Tyson Barnes GitHub activity"
-  >
+    alt="GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="48%"
+    alt="GitHub statistics"
+  />
 </p>
 
 ---
